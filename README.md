@@ -1,3 +1,4 @@
 # Movie App 2019
 
-React Js Fuddmentals Course(2019 update!)
+https://yul-i.github.io/movie_app/
+React Js 실습!
